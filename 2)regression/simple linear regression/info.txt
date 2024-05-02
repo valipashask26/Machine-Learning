@@ -1,0 +1,11 @@
+
+Equation  >   y = b0 + b1X1
+here > y is dependent variable
+       b0 is y-intercept (constant)
+       b1 is slope coefficient
+       X1 is independent variable
+
+SIMPLE FORMULA
+
+
+y = mx +b 
