@@ -1,0 +1,11 @@
+
+Equation  >   Y = b0 + b1X1 + b2X2 + .... + bnXn
+
+Y = dependent variable
+b0 = Y intercept
+b1 = slope coefficienct1
+X1 = independent variable1
+
+b2 = slope coefficient2
+X2 = independent var2
+

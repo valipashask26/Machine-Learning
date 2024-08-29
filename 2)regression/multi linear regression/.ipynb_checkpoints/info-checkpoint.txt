@@ -1,0 +1,2 @@
+
+Equation  >   Y = a + b1X + b2X2
